@@ -1,0 +1,10 @@
+# Ignore datasets
+*.xlsx
+*.csv
+
+# Ignore trained models
+*.pkl
+
+# Ignore python cache
+__pycache__/
+*.pyc
